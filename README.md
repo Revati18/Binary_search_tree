@@ -1,1 +1,1 @@
-# Binary_search_tree
+# Binary-Search-Tree-Visualizer
